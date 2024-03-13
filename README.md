@@ -1,4 +1,3 @@
-### Hi there 👋
 
 # Hi there, I'm Alexander! 👋
 
@@ -17,10 +16,6 @@
 - **Machine Learning / Deep Learning Frameworks:** PyTorch, TensorFlow, Ultralytics, SentenceTransformers
 - **Data Processing and Workflow Management:** SQL, Airflow, PySpark
 - **Other:** A strong foundation in data analytics, machine learning model development, and deployment.
-
-## 📈 GitHub Stats
-
-[![Alexander's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername)
 
 ## 📫 How to Reach Me
 
